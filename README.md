@@ -4,6 +4,8 @@ This is a rocket radio telemetry project for amateur and experimental rocketry.
 
 Please read the Overview.PDF file attached for a general overview of the hardware and software solution.
 
+There is also a quick video overview here:  https://vimeo.com/489179754/c7f04c6ab9
+
 The code in the repository is split between the vehicle code (Arduino / Teensy) and the base station code (iPad / iOS Swift).
 
 At the time of authoring, the Teensy code required Teensyduino v1.54 beta10 IDE to support LittleFS flash memory. The iOS Swift code was developed in Xcode 13 on MacOS Big Sur. 
